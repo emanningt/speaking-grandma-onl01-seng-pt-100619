@@ -7,7 +7,9 @@ if speak_to_grandma == "i love you grandma!".upcase
   elsif speak_to_grandma == "hi!".capitalize
   puts "HUH?! SPEAK UP, SONNY!"
   elsif speak_to_grandma == "what do you want to eat today".upcase
-  puts 
+  puts "NO, NOT SINCE 1938!"
+  else speak_to_grandma == "what?".upcase
+  puts "NO, NOT SINCE 1938!"
  end 
 
 # Write a speak_to_grandma method.
