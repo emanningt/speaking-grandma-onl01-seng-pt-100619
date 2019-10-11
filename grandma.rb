@@ -1,8 +1,6 @@
-speak_to_grandma = "GRANDMA"
-  
-  if speak_to_grandma == "I LOVE YOU GRANDMA!"
-    puts "I love you too PUMPKIN".upcase
-    
+
+  if "i love you grandma!".upcase
+    put "i love you too PUMPKIN".upcase
   end
 # Write a speak_to_grandma method.
 
