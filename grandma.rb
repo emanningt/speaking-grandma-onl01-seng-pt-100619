@@ -1,6 +1,6 @@
 
   if "i love you grandma!".upcase
-    put "i love you too PUMPKIN".upcase
+    puts "i love you too PUMPKIN".upcase
   end
 # Write a speak_to_grandma method.
 
