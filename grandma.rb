@@ -1,6 +1,4 @@
-def speak_to_grandma
-  puts "I LOVE YOU GRANDMA!"
-end
+
 
 
 # Write a speak_to_grandma method.
