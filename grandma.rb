@@ -1,7 +1,7 @@
 speak_to_grandma = "I LOVE YOU GRANDMA!"
 
 if speak_to_grandma
-  return "I LOVE YOU TOO PUMPKIN!"
+  print "I LOVE YOU TOO PUMPKIN!"
 end
   
   
