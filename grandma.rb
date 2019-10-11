@@ -1,4 +1,4 @@
-speak_to_grandma = .upcase
+speak_to_grandma = "i love you grandma!".upcase
 
 if speak_to_grandma == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
