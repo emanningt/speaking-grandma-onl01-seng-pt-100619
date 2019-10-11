@@ -1,7 +1,7 @@
-speak_to_grandma == .upcase 
+speak_to_grandma = "i love you grandma!".upcase 
 
 if speak_to_grandma 
-  
+  puts "i love you too PUMPKIN".upcase
   
 end
 
