@@ -2,13 +2,13 @@ speak_to_grandma = "i love you grandma!".upcase
 
 if speak_to_grandma == "i love you grandma!".upcase
   puts "I LOVE YOU TOO PUMPKIN!"
-  elsif speak_to_grandma == "hi Nana, how are you?".capitalize
+  elsif "hi Nana, how are you?".capitalize
   puts "HUH?! SPEAK UP, SONNY!"
-  elsif speak_to_grandma == "hi!".capitalize
+  elsif "hi!".capitalize
   puts "HUH?! SPEAK UP, SONNY!"
-  elsif speak_to_grandma == "what do you want to eat today".upcase
+  elsif "what do you want to eat today".upcase
   puts "NO, NOT SINCE 1938!"
-  else speak_to_grandma == "what?".upcase
+  else "what?".upcase
   puts "NO, NOT SINCE 1938!"
  end 
 
