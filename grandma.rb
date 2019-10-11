@@ -1,9 +1,8 @@
-
-  speak_to_grandma = "I LOVE YOU TOO PUMKIN!"
-  if speak_to_grandma == "I LOVE YOU TOO GRANDMA!"
-    puts speak_to_grandma
-  end
+speak_to_grandma = "GRANDMA"
   
+  if speak_to_grandma 
+    
+  end
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
