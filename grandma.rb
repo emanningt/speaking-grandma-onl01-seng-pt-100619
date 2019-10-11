@@ -2,6 +2,8 @@ speak_to_grandma = "i love you grandma!".upcase
 
 if speak_to_grandma == "i love you grandma!".upcase
   puts "i love you too pumpkin!".upcase
+  elsif speak_to_grandma == "Hi Nana, how are you?"
+  puts ""
  end 
 
 # Write a speak_to_grandma method.
