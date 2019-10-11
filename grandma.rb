@@ -1,6 +1,6 @@
 speak_to_grandma = "GRANDMA"
 
-if speak_to_grandma = 
+if speak_to_grandma = "GRANDMA"
   put "HUH?! SPEAK UP, SONNY!"
 end
 
