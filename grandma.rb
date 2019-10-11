@@ -5,7 +5,8 @@ def speak_to_grandma(string)
     return "HUH?! SPEAK UP, SONNY!"
     elsif string == "Hi!"
       return "HUH?! SPEAK UP, SONNY!"
-      
+     elsif "WHAT DID YOU EAT TODAY?" 
+      return ""
   end
 end
 
