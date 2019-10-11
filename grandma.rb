@@ -2,16 +2,10 @@ speak_to_grandma = "i love you grandma!".upcase
 
 if speak_to_grandma
   puts "I LOVE YOU TOO PUMPKIN!"
-  elsif "hi Nana, how are you?".capitalize
-  puts "HUH?! SPEAK UP, SONNY!"
-  elsif "hi!".capitalize
-  puts "HUH?! SPEAK UP, SONNY!"
-  elsif "what do you want to eat today".upcase
-  puts "NO, NOT SINCE 1938!"
-  else "what?".upcase
-  puts "NO, NOT SINCE 1938!"
- end 
-
+end
+  
+  
+  
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
