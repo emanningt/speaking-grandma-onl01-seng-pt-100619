@@ -2,7 +2,9 @@ def speak_to_grandma
   return "I LOVE YOU GRANDMA!"
 end
 
-
+if speak_to_grandma
+  puts "I LOVE YOU TOO PUMPKIN!"
+end
 
 # Write a speak_to_grandma method.
 
