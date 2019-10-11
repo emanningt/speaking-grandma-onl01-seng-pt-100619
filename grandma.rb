@@ -1,6 +1,6 @@
 speak_to_grandma = "GRANDMA"
   
-  if speak_to_grandma != "I LOVE YOU GRANDMA!"
+  if speak_to_grandma == "I LOVE YOU GRANDMA!"
     puts "I love you too PUMPKIN".upcase
     
   end
