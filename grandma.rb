@@ -1,7 +1,7 @@
 speak_to_grandma = "grandma".upcase
 
 if speak_to_grandma = "grandma".upcase
-  put "HUH?! SPEAK UP, SONNY!"
+  puts "HUH?! SPEAK UP, SONNY!"
 end
 
 # Write a speak_to_grandma method.
