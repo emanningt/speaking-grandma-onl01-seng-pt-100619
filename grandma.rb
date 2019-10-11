@@ -1,6 +1,6 @@
 speak_to_grandma = "grandma".upcase
 
-if speak_to_grandma == "grandma"
+if speak_to_grandma == "grandma".upcase
   puts "HUH?! SPEAK UP, SONNY!"
  end 
 
