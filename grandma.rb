@@ -1,7 +1,8 @@
 speak_to_grandma = "GRANDMA"
 
 if speak_to_grandma
-  elsif 
+  put "HUH?! SPEAK UP, SONNY!"
+end
 
 # Write a speak_to_grandma method.
 
